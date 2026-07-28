@@ -1,5 +1,5 @@
-# NOC KB Sync - Data
+# Server Updates Mapping Data
 
-Este repositorio contiene la base de datos central (`Boletin_KBs.json`) para la herramienta **NOC KB Sync**.
+Este repositorio contiene la base de datos central en formato JSON (`Boletin_KBs.json`) con la informacion mensual de las actualizaciones (KBs) aprobadas para los servidores.
 
-El archivo almacena el mapeo mensual de los servidores y sus actualizaciones (KBs) correspondientes. La herramienta principal lee este archivo automáticamente cada vez que se ejecuta, permitiendo actualizar la lista de parches del mes sin necesidad de modificar el código ni distribuir nuevas versiones del ejecutable.
+El archivo almacena unicamente el mapeo correspondiente a cada ciclo de actualizacion de Microsoft, definiendo que parches aplican segun la version del sistema operativo.
