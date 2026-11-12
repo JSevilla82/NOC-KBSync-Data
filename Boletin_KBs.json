@@ -1,42 +1,42 @@
 {
-  "Mappings": [
+  "OSList": [
     {
       "OSKeyword": "2025",
       "ProductName": "Windows Server 2025",
       "KBs": [
-        { "Number": "KB5122871", "Type": "SecurityUpdate" },
-        { "Number": "KB5126052", "Type": "DotNetUpdate" }
+        { "Number": "KB5126646", "Type": "SecurityUpdate" },
+        { "Number": "KB5127690", "Type": "DotNetUpdate" }
       ]
     },
     {
       "OSKeyword": "2022",
       "ProductName": "Windows Server 2022",
       "KBs": [
-        { "Number": "KB5122882", "Type": "SecurityUpdate" },
-        { "Number": "KB5126149", "Type": "DotNetUpdate" }
+        { "Number": "KB5126655", "Type": "SecurityUpdate" },
+        { "Number": "KB5128928", "Type": "DotNetUpdate" }
       ]
     },
     {
       "OSKeyword": "2019",
       "ProductName": "Windows Server 2019",
       "KBs": [
-        { "Number": "KB5122876", "Type": "SecurityUpdate" },
-        { "Number": "KB5126144", "Type": "DotNetUpdate" }
+        { "Number": "KB5126651", "Type": "SecurityUpdate" },
+        { "Number": "KB5128923", "Type": "DotNetUpdate" }
       ]
     },
     {
       "OSKeyword": "2016",
       "ProductName": "Windows Server 2016",
       "KBs": [
-        { "Number": "KB5122874", "Type": "ServicingStack" },
-        { "Number": "KB5123099", "Type": "SecurityUpdate" },
-        { "Number": "KB5126047", "Type": "DotNetUpdate" }
+        { "Number": "KB5126649", "Type": "ServicingStack" },
+        { "Number": "KB5126868", "Type": "SecurityUpdate" },
+        { "Number": "KB5127684", "Type": "DotNetUpdate" }
       ]
     }
   ],
-  "BulletinMonth": "Septiembre",
+  "BulletinMonth": "Octubre",
   "BulletinYear": 2026,
-  "ExpiryDay": 13,
-  "ExpiryMonth": 10,
+  "ExpiryDay": 30,
+  "ExpiryMonth": 11,
   "ExpiryYear": 2026
 }
